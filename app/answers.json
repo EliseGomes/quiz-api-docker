@@ -1,0 +1,447 @@
+[
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 08:00:00",
+    "usuario": "daniel",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 08:01:45",
+    "usuario": "daniel",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 08:03:30",
+    "usuario": "daniel",
+    "nro_tentativa": 1
+  },
+
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 08:15:00",
+    "usuario": "eduarda",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 08:17:20",
+    "usuario": "eduarda",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 08:19:10",
+    "usuario": "eduarda",
+    "nro_tentativa": 1
+  },
+
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 08:25:00",
+    "usuario": "fernando",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 08:27:10",
+    "usuario": "fernando",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 08:29:00",
+    "usuario": "fernando",
+    "nro_tentativa": 1
+  },
+
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 09:00:00",
+    "usuario": "gabriela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 09:01:30",
+    "usuario": "gabriela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 09:03:10",
+    "usuario": "gabriela",
+    "nro_tentativa": 1
+  },
+
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:10:00",
+    "usuario": "henrique",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 09:12:05",
+    "usuario": "henrique",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:13:50",
+    "usuario": "henrique",
+    "nro_tentativa": 1
+  },
+    {
+    "question_id": 1,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-28 08:32:00",
+    "usuario": "aline",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-28 08:35:10",
+    "usuario": "aline",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-28 08:37:55",
+    "usuario": "aline",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-29 09:15:40",
+    "usuario": "bruna",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-29 09:18:00",
+    "usuario": "bruna",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-29 09:19:45",
+    "usuario": "bruna",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 10:00:00",
+    "usuario": "carla",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 10:01:30",
+    "usuario": "carla",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 10:03:15",
+    "usuario": "carla",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 08:00:00",
+    "usuario": "daniel",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 08:01:45",
+    "usuario": "daniel",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 08:03:30",
+    "usuario": "daniel",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 08:15:00",
+    "usuario": "eduarda",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 08:17:20",
+    "usuario": "eduarda",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 08:19:10",
+    "usuario": "eduarda",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 08:25:00",
+    "usuario": "fernando",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 08:27:10",
+    "usuario": "fernando",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 08:29:00",
+    "usuario": "fernando",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 09:00:00",
+    "usuario": "gabriela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 09:01:30",
+    "usuario": "gabriela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 09:03:10",
+    "usuario": "gabriela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:10:00",
+    "usuario": "henrique",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 09:12:05",
+    "usuario": "henrique",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:13:50",
+    "usuario": "henrique",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 09:20:00",
+    "usuario": "isabela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 09:22:10",
+    "usuario": "isabela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 09:24:00",
+    "usuario": "isabela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 09:30:00",
+    "usuario": "joao",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:32:20",
+    "usuario": "joao",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 09:34:10",
+    "usuario": "joao",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:40:00",
+    "usuario": "karla",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 09:42:00",
+    "usuario": "karla",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 09:44:05",
+    "usuario": "karla",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 09:50:00",
+    "usuario": "luiz",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 09:52:15",
+    "usuario": "luiz",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 09:54:00",
+    "usuario": "luiz",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 10:10:00",
+    "usuario": "marcela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 10:12:30",
+    "usuario": "marcela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 10:14:00",
+    "usuario": "marcela",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 10:20:00",
+    "usuario": "natalia",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 10:22:10",
+    "usuario": "natalia",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 10:24:00",
+    "usuario": "natalia",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 10:30:00",
+    "usuario": "pedro",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 10:32:10",
+    "usuario": "pedro",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "d",
+    "datahora": "2025-05-30 10:34:20",
+    "usuario": "pedro",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "a",
+    "datahora": "2025-05-30 10:40:00",
+    "usuario": "rafael",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "c",
+    "datahora": "2025-05-30 10:42:30",
+    "usuario": "rafael",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "b",
+    "datahora": "2025-05-30 10:44:00",
+    "usuario": "rafael",
+    "nro_tentativa": 1
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "question_id": 1,
+    "question_text": "Qual linguagem é mais usada no desenvolvimento de APIs modernas?",
+    "alternativa_a": "Python",
+    "alternativa_b": "Java",
+    "alternativa_c": "Go",
+    "alternativa_d": "PHP",
+    "alternativa_correta": "a",
+    "dificuldade": "média",
+    "assunto": "tecnologia"
+  },
+  {
+    "question_id": 2,
+    "question_text": "Qual comando do Git é usado para criar uma nova branch?",
+    "alternativa_a": "git start",
+    "alternativa_b": "git branch",
+    "alternativa_c": "git init",
+    "alternativa_d": "git switch",
+    "alternativa_correta": "b",
+    "dificuldade": "fácil",
+    "assunto": "git"
+  },
+  {
+    "question_id": 3,
+    "question_text": "Qual é a principal função do Redis?",
+    "alternativa_a": "Servir páginas web",
+    "alternativa_b": "Gerar relatórios analíticos",
+    "alternativa_c": "Armazenar dados temporários em memória",
+    "alternativa_d": "Fazer backup de banco de dados",
+    "alternativa_correta": "c",
+    "dificuldade": "média",
+    "assunto": "tecnologia"
+  }
+]
